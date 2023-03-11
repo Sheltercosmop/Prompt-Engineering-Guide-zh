@@ -1,8 +1,10 @@
 # Prompt-Engineering-Guide-zh
 # Prompt工程指南中文版
 
-本文翻译改编自**[Dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)**
-中文原帖地址为**[大型语言模型Prompt书写指南](https://www.acceleratori.com/d/10615/5)**
+本文翻译改编自
+**[Dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)**
+中文原帖地址为
+**[大型语言模型Prompt书写指南](https://www.acceleratori.com/d/10615/5)**
 为了方便理解以及补充缺少的知识点，内容有所添改。除非另有说明，本文中所有的例子都是使用text-davinci-003（GPT-3）（使用OpenAI的Playground）测试的。案例使用默认的配置，例如temperatur和top-p参数分别为0.7与1。本文所有的输入与输出都为英文，中文翻译仅用于辅助理解，并非实际输入输出，因此在出现输入的位置，本文将保留英语原文作为参考。
 
 本文主要分为以下几个板块
